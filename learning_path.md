@@ -18,7 +18,7 @@ Nice course that seems to touch everything from UI, MIDI controller, loops, etc
     - velocity to define how hard/soft a note is played
     - to record a clip with keyboard: 1. arm track, 2. play around, 3. set bpm, 4. hit Session Record button
     
-- [ ] `Ableton Live For Beginners (pt. 2)`
+- [x] `Ableton Live For Beginners (pt. 2)`
 
     - In a track enable `Auto` so you can hear what a microphone 
     - when recording something in preference-recording there is a count-in 
