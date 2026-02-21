@@ -24,8 +24,28 @@ Nice course that seems to touch everything from UI, MIDI controller, loops, etc
     - when recording something in preference-recording there is a count-in 
     - drag and drop a clip into arrangement view
 
+- [x] `Music Production For Beginners (pt. 3!)`
+
+    - playing along with the MIDI keyboard
+    - don't use Bluetooth head phones, the delay is too large. Either use speakers or wired headphones
+    - panning
+    - send knobs, they correlate to reverb (Send A) and delay (Send B)
+
+- [ ] `Music Production In Ableton Live For Beginners (pt. 4!)`
+
+
+
 ## 2. Seed To Stage - Beginner Course
 
 These $17 are worth it!
 
 [link](https://seedtostage.com/course/beginner-course-ableton-live/#curriculum)
+
+
+Oswaldo Otero <oswaldo.otero@overproof.com>
+Chk7-7o3WCdziLXx
+
+VYurcW*Re-gaoH4
+
+
+deep-stream-i1f5ns98fzmyodrltjz3htyw.herokudns.com
